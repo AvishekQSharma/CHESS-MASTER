@@ -1,0 +1,29 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Footer drop shadow -->
+    <path
+        android:fillColor="#33000000"
+        android:pathData="M27,87h54v2H27z" />
+        
+    <!-- Symmetrical Chess King silhouette representation -->
+    <path
+        android:fillColor="#FFFDF6"
+        android:pathData="M34,81 L74,81 C74,79 72,76 70,75 C66,73 64,68 64,62 C64,55 68,52 68,46 C68,40 64,34 58,32 C55,31 50,32 46,35 C42,38 38,43 36,49 C34,55 34,59 36,63 C38,67 40,69 40,72 C40,74 36,76 34,79 Z" />
+        
+    <!-- Solid base layers -->
+    <path
+        android:fillColor="#E6E2D8"
+        android:pathData="M29,85h50v-4H29v4z" />
+        
+    <!-- Top King Cross marker -->
+    <path
+        android:fillColor="#FFC107"
+        android:pathData="M52,23h4v6h-4z" />
+    <path
+        android:fillColor="#FFC107"
+        android:pathData="M49,25h10v2h-10z" />
+</vector>

@@ -1,0 +1,6 @@
+{
+  "name": "Chess Game",
+  "description": "A polished Chess game for Android featuring Local Player vs. Player, Player vs. Minimax AI, move history, smart undo/redo, checkmate/stalemate detection, local game history persistence, and a Gemini-powered Chess Coach analyzer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
